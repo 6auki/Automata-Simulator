@@ -3,6 +3,8 @@
 
 This project is an automata simulator that takes a regular expression as input and constructs a corresponding ε-NFA (Nondeterministic Finite Automaton with epsilon transitions) using Thompson’s construction, and a minimized DFA that recognizes the same language. The simulator demonstrates the full pipeline from regex to NFA, then to DFA, and finally to a minimized DFA, allowing users to simulate strings and observe the automaton in action.
 
+Some visualization files are omitted.
+
 ---
 
 
