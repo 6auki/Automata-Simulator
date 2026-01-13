@@ -362,6 +362,18 @@ etc.
 ![Syntax Tree Two](Visualize/images/a_syntax_tree.png)
 ![Syntax Tree Two](Visualize/images/1_syntax_tree.png)
 
+### ε-NFA
+![ε-NFA](Visualize/images/a_nfa.png)
+![ε-NFA](Visualize/images/1_nfa.png)
+
+### DFA
+![DFA](Visualize/images/a_dfa.png)
+![DFA](Visualize/images/1_dfa.png)
+
+### Minimized DFA
+![Minimized DFA](Visualize/images/a_min_dfa.png)
+![Minimized DFA](Visualize/images/1_min_dfa.png)
+
 
 
 
