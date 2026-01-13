@@ -336,6 +336,11 @@ This project uses **Hopcroft’s algorithm** to produce a **canonical, minimal D
 ## 8. Automata Visualization
 ### **Visualizations done by Python are below these.**
 ### Since Graphs didn't work out on large scale, the terminal also gives outputs in the following way:
+
+
+Checking on check on a(b|c)* and (1*01*01*)*(0*10*10*)*
+
+
 <img width="1001" height="144" alt="image" src="https://github.com/user-attachments/assets/231fa3ec-cd70-431c-864f-7af77429a63e" />
 
 <img width="858" height="807" alt="image" src="https://github.com/user-attachments/assets/a0f26d34-5bf9-4394-b32d-96b45cbb6940" />
