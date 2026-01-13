@@ -340,28 +340,28 @@ This project uses **Hopcroft’s algorithm** to produce a **canonical, minimal D
 
 Checking on check on `a(b|c)*` and `(1*01*01*)*(0*10*10*)*`
 
-### DFA![DFA](Visualize/images/one.png)
+### ![RegEx](Visualize/images/one.png)
 
-### DFA![DFA](Visualize/images/two.png)
+### ![Syntax Tree](Visualize/images/two.png)
 
-### DFA![DFA](Visualize/images/three.png)
+### ![NFA](Visualize/images/three.png)
 etc.
 
-### DFA![DFA](Visualize/images/threee.png)
+### ![NFA](Visualize/images/threee.png)
 etc.
 
-### DFA![DFA](Visualize/images/threeee.png)
+### ![NFA](Visualize/images/threeee.png)
 
-### DFA![DFA](Visualize/images/four.png)
+### ![DFA](Visualize/images/four.png)
 
-### DFA![DFA](Visualize/images/five.png)
+### ![MIN DFA](Visualize/images/five.png)
 
 
 
 ### Syntax Tree for RegEx
 ![Syntax Tree](Visualize/images/a_syntax_tree.png)
 
-![Syntax Tree](Visualize/images/one_syntax_tree.png)
+![Syntax Tree Two](Visualize/images/one_syntax_tree.png)
 
 
 ### ε-NFA
@@ -370,9 +370,9 @@ etc.
 ![NFA](Visualize/images/one_nfa.png)
 
 
-### DFA![DFA](Visualize/images/a_dfa.png)
+### ![DFA](Visualize/images/a_dfa.png)
 
-### DFA![DFA](Visualize/images/one_dfa.png)
+### ![DFA](Visualize/images/one_dfa.png)
 
 
 ### Minimized DFA
