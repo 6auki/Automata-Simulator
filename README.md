@@ -361,25 +361,25 @@ etc.
 ### Syntax Tree for RegEx
 ![Syntax Tree](Visualize/images/a_syntax_tree.png)
 
-![Syntax Tree Two](Visualize/images/one_syntax_tree.png)
+![Syntax Tree Two](Visualize/images/1_syntax_tree.png)
 
 
 ### ε-NFA
 ![NFA](Visualize/images/a_nfa.png)
 
-![NFA](Visualize/images/one_nfa.png)
+![NFA](Visualize/images/1_nfa.png)
 
 
 ### ![DFA](Visualize/images/a_dfa.png)
 
-### ![DFA](Visualize/images/one_dfa.png)
+### ![DFA](Visualize/images/1_dfa.png)
 
 
 ### Minimized DFA
 ![Min DFA](Visualize/images/a_min_dfa.png)
 
 
-![Min DFA](Visualize/images/one_min_dfa.png)
+![Min DFA](Visualize/images/1_min_dfa.png)
 
 
 
