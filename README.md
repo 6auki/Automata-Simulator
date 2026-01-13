@@ -216,22 +216,22 @@ This step is essential because it provides a **structured automaton** representi
 
 ### **How it works (step-by-step):**
 
-1. Traverse the syntax tree recursively. Each node is either an operand (symbol) or an operator (*, ., |).
+1. Traverse the syntax tree recursively. Each node is either an operand (symbol) or an operator (`*`, `.`, `|`).
 
 2. Operand (symbol) node:
    - Create an NFA fragment with a start state, an accept state, and a transition labeled with the symbol.
 
-3. Concatenation (.) node:
+3. Concatenation `.` node:
    - Recursively build NFAs for left and right children.
    - Connect the accept state of the left NFA to the start state of the right NFA using an ε-transition.
    - The combined NFA's start state is the left's start, accept state is the right's accept.
 
-4. Alternation (|) node:
+4. Alternation `|` node:
    - Recursively build NFAs for left and right children.
    - Create a new start state and new accept state.
    - Add ε-transitions from the new start to each child’s start, and from each child’s accept to the new accept state.
 
-5. Kleene star (*) node:
+5. Kleene star `*` node:
    - Recursively build the NFA for the child.
    - Create a new start and accept state.
    - Add ε-transitions:
@@ -338,7 +338,7 @@ This project uses **Hopcroft’s algorithm** to produce a **canonical, minimal D
 ### Since Graphs didn't work out on large scale, the terminal also gives outputs in the following way:
 
 
-Checking on check on a(b|c)* and (1*01*01*)*(0*10*10*)*
+Checking on check on `a(b|c)*` and `(1*01*01*)*(0*10*10*)*`
 
 
 <img width="1001" height="144" alt="image" src="https://github.com/user-attachments/assets/231fa3ec-cd70-431c-864f-7af77429a63e" />
@@ -406,6 +406,6 @@ In Command Prompt:
 Run the Python Visualizer
 - Go to the visualization folder
   - `cd "visualization_folder"`
-- Run the Python script
+- Run the Python script (you have to modify script or add the missing py files for visualizations)
   - `py visualize_all.py` or `python visualize_all.py`
 
