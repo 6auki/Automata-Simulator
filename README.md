@@ -340,46 +340,46 @@ This project uses **Hopcroft’s algorithm** to produce a **canonical, minimal D
 
 Checking on check on `a(b|c)*` and `(1*01*01*)*(0*10*10*)*`
 
+### DFA![DFA](images/one.png)
 
-<img width="1001" height="144" alt="image" src="https://github.com/user-attachments/assets/231fa3ec-cd70-431c-864f-7af77429a63e" />
+### DFA![DFA](images/two.png)
 
-<img width="858" height="807" alt="image" src="https://github.com/user-attachments/assets/a0f26d34-5bf9-4394-b32d-96b45cbb6940" />
-
-<img width="1014" height="820" alt="image" src="https://github.com/user-attachments/assets/eb08e60f-87cf-4e80-9bac-0ae9d93f8ec4" />
+### DFA![DFA](images/three.png)
 etc.
 
-<img width="998" height="846" alt="image" src="https://github.com/user-attachments/assets/dbdc473c-1bc5-4892-b011-ee87aaf6b3fc" />
+### DFA![DFA](images/threee.png)
 etc.
 
-<img width="1026" height="842" alt="image" src="https://github.com/user-attachments/assets/147259ef-9894-44c1-a8ab-e7b984aa06df" />
+### DFA![DFA](images/threeee.png)
 
-<img width="523" height="425" alt="image" src="https://github.com/user-attachments/assets/eea9ea0f-04ce-4c77-90b1-6b76961c0dc2" />
+### DFA![DFA](images/four.png)
+
+### DFA![DFA](images/five.png)
+
 
 
 ### Syntax Tree for RegEx
-<img width="3570" height="1977" alt="syntax_tree" src="https://github.com/user-attachments/assets/4615ad7b-5ef0-48d4-8d47-43a11fbea572" />
+![Syntax Tree](images/a_syntax_tree.png)
 
-
-<img width="3570" height="1238" alt="syntax_tree" src="https://github.com/user-attachments/assets/ab8d49ba-9984-4762-a734-1b4f7497c679" />
+![Syntax Tree](images/one_syntax_tree.png)
 
 
 ### ε-NFA
-<img width="2646" height="2973" alt="nfa" src="https://github.com/user-attachments/assets/1fa6cf0d-262d-4ebf-9080-6570e73b6942" />
+![NFA](images/a_nfa.png)
 
-<img width="2832" height="2973" alt="nfa" src="https://github.com/user-attachments/assets/e10ffb26-5a30-4ec4-87bf-7ec87af8d6b6" />
+![NFA](images/one_nfa.png)
 
 
-### DFA
-<img width="2864" height="2973" alt="dfa" src="https://github.com/user-attachments/assets/81d9e51b-e9b3-435c-a9cc-660c0e7736cb" />
+### DFA![DFA](images/a_dfa.png)
 
-<img width="2768" height="2973" alt="dfa" src="https://github.com/user-attachments/assets/ef7e47ec-bbce-42c7-881c-0bcc6aaf8e01" />
+### DFA![DFA](images/one_dfa.png)
 
 
 ### Minimized DFA
-<img width="2957" height="2973" alt="min_dfa" src="https://github.com/user-attachments/assets/362f4e85-0dd5-4de3-80a1-182f542f214b" />
+![Min DFA](images/a_min_dfa.png)
 
 
-<img width="2747" height="2973" alt="min_dfa" src="https://github.com/user-attachments/assets/03ee4fa1-b456-45c5-aaec-c0bfa60dff46" />
+![Min DFA](images/one_min_dfa.png)
 
 
 
